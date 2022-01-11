@@ -1,0 +1,7 @@
+#Ignore folder named venv and .idea
+.venv/
+venv/
+.gitignore/
+.idea/
+.vscode/
+README.md
